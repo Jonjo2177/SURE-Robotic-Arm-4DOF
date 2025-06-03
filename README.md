@@ -3,6 +3,7 @@ Repository for the SURE Robotic Arm 4DOF Project
 
 Project Title: Autonomous 4 Degrees of Freedom (DOF) Robotic Arm for Chess Piece
 Manipulation
+
 Abstract:
 This project focuses on building a simple robotic arm that can
 recognize and move chess pieces on a board. The system will use
