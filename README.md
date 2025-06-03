@@ -4,6 +4,7 @@ Repository for the SURE Robotic Arm 4DOF Project
 Project Title: Autonomous 4 Degrees of Freedom (DOF) Robotic Arm for Chess Piece
 Manipulation
 
+
 Abstract:
 This project focuses on building a simple robotic arm that can
 recognize and move chess pieces on a board. The system will use
@@ -12,6 +13,7 @@ chess engine for decision-making, and motorized joints to
 execute moves. The goal is to develop a functional prototype,
 ensuring ease of implementation while maintaining accuracy in
 piece movement.
+
 
 Project Objectives:
 
@@ -23,6 +25,7 @@ integrate a chess engine (e.g., Stockfish) for move decisions.
 
 • Implement Motion Control & Automation: Develop a control system that allows the arm
 to execute legal chess moves accurately.
+
 
 Brief Methodology:
 
@@ -38,6 +41,7 @@ and precise movement of chess pieces.
 
 • Testing & Optimization: Conduct trial games to refine movement accuracy and
 responsiveness.
+
 
 Additional information:
 
